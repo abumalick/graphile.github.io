@@ -5,7 +5,7 @@ title: PostgreSQL Indexes
 ---
 
 It’s important that your queries stay fast for your users, this section
-outlines some resources to help you optimize you queries with indexes.
+outlines some resources to help you optimize your queries with indexes.
 
 - Heroku’s [Efficient Use of PostgreSQL Indexes][] outlines how to best use indexes to optimize you queries. The entire article is a helpful read, but if nothing else read the last section [Managing and Maintaining Indexes][] for a better understanding of how indexes work.
 
